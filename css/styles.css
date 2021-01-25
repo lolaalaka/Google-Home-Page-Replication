@@ -1,0 +1,70 @@
+.image{
+    margin:80px 250px 0px 270px;
+    padding:0px 200px;
+    width:30%;
+    display:block;
+    }
+input[type=search] {  
+    cursor: pointer;
+    display:block; 
+    width:40%;       
+    border-radius: 20px; 
+    padding: 0px 0px 0px 0px; 
+    margin:20px 100px 0px 400px;   
+    height:45px;
+    background-color:white ;
+  box-shadow:1px 1px 5px 1px grey;
+  border-style: none;
+    }
+input[type="search"]::placeholder { padding-left: 50px; }
+
+ul {list-style-type: none;
+margin-left:20px;
+margin-right:10px;
+padding-left:350px;
+padding-top: 30px;
+overflow:hidden;
+display:block;}
+
+li {float:left;
+display:block;
+margin:0 0px;             
+text-align:center;
+} <!--spacing between images-->
+
+.input-icons i { 
+    position:relative; 
+    top:200px; 
+    right:40px;
+    bottom:50px;
+     
+} 
+  
+.input-icons { 
+    width: 100%; 
+    margin-bottom: 0px; 
+} 
+  
+.icon { 
+    padding:0px 0px 0px 400px; 
+    min-width: 40px;
+     
+   
+} 
+.br {
+    border:12px solid #F0F0F0;
+    border-radius:100px;
+    background-color:#F0F0F0	;
+    width:30px; 
+    height:30px;}
+.item {
+vertical-align: top;
+display: inline-block;
+text-align: center;
+color:rgb(41, 43, 43);
+font-size: small;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.caption {
+display: block;}
